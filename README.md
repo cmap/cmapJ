@@ -8,7 +8,7 @@ Source code: src/cmap/io/
 * **GctxReader.java**: Class to read a GCTX file.
 * **LXBUtil.java**: Class to read and store .lxb files.
 
-####Demos
+#### Demos
 ##### Working with GCTx files 
-Demonstrates how to read and write GCTX files.
+Demonstrates how to read and write [GCTx](https://clue.io/connectopedia/gctx_format) files.
 Compile the demo by running `sh compileExamples.sh`, then execute by running the `runExample*.sh` file that matches your OS. 
