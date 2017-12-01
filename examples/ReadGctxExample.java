@@ -9,7 +9,8 @@ import cmap.matrix.Vector;
 public class ReadGctxExample {
 
     public static void main(String[] args) throws Exception {
-	GctxReader reader = new GctxReader("../data/modzs_n272x978.gctx");
+
+	GctxReader reader = new GctxReader("examples/gctv13_02.gctx");
 	try {
 	    // read the full dataset
 	    Dataset dataset = reader.read();
